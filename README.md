@@ -82,11 +82,11 @@ sudo dnf install bpytop
 sudo dnf install gnome-tweaks
 ```
 
-##Customisation
+## Customisation
 
 Use Tweaks to enable the Maximize and Minimize controls on your windows and add the weekday to the clock.
 
-##Gnome Extensions
+## Gnome Extensions
 
 These are a few of my favourite must have Gnome extensions:
 
