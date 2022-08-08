@@ -54,8 +54,8 @@ One day all software will be installed this way, this enables Flatpak and applie
 
 ```
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-  sudo flatpak override --filesystem=$HOME/.themes
-sudo flatpak override --env=GTK_THEME=my-theme
+sudo flatpak override --filesystem=$HOME/.themes
+sudo flatpak override --env=GTK_THEME=default
 ```
 
 ## Install Fish
